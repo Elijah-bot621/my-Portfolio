@@ -62,11 +62,11 @@ My goal is to continue improving my programming skills by learning modern web te
 
 ## 📬 Contact
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Elijah-bot621
 
-Portfolio: https://YOUR_USERNAME.github.io/REPOSITORY_NAME/
+Portfolio: https://Elijah-bot621.github.io/my-Portfolio/
 
-Email: your-email@example.com
+Email: oluwagbengaelijah3@gmail.com
 
 ## ⭐ Support
 
